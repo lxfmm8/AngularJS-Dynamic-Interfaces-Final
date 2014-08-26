@@ -6,7 +6,7 @@ Parsons the New School for Design
 
 Note: this project requires a http call, so run something like:
 
-python -m SimpleHTTPServer 8000
+<strong>python -m SimpleHTTPServer 8000</strong>
 
 before you can see content.
 
