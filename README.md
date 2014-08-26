@@ -8,6 +8,6 @@ Note: this project requires a http call, so run something like:
 
 <strong>python -m SimpleHTTPServer 8000</strong>
 
-before you can see content.<br/>
+within the repo before you can see content.<br/>
 
 created w/ AngularJS
